@@ -22,8 +22,8 @@ title: Musiquita De Pinga
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   A curated list of music that can only be described as very "de pinga". 
-baseurl: "https://www.musiquitadepingapabailarypasarlachevere.com/index.html" # the base hostname & protocol for your site, e.g. http://example.com
-url: "/"
+baseurl: ""
+url: "https://www.musiquitadepingapabailarypasarlachevere.com/index.html" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chiskov
 github_username:  therealchisco
 
@@ -32,10 +32,11 @@ paginate: 5
 paginate_path: "/page:num"
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme/
+remote_theme: /chrisrhymes/bulma-clean-theme/
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
