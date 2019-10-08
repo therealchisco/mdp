@@ -23,11 +23,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A curated list of music that can only be described as very "de pinga". 
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
 url: "https://www.musiquitadepingapabailarypasarlachevere.com/index.html" # the base hostname & protocol for your site, e.g. http://example.com
-=======
-url: "https://www.musiquitadepingapabailarypasarlachevere.com" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> 7518a529a8ba0b43dc90bee182b9ff47f6ccc865
 twitter_username: chiskov
 github_username:  therealchisco
 
