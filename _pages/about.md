@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## it's just a meme bro
+## It started out with a meme, how did it end up like this?
